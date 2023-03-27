@@ -1,7 +1,7 @@
 <h3>🌐 Social:</h3>
 <div>
 <p>
-  Olá, sou o Rafael Drigo!
+  Olá, sou o Vinicius Datti!
   Gosto de sempre estar buscando novos estudos, pois o item mais valioso que o ser humano pode oferecer é o Conhecimento.
   Atualmente estou Cursando Bacharelado de Engenharia de Computação na <a href="https://www.eep.br/>EEP</a>.
 </p>
