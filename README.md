@@ -1,7 +1,7 @@
 <p>
   Olá, sou o Vinicius Datti!
   Sou um trainee de desenvolvimento front-end em busca de experiência e aprendizado. Estou atualmente me dedicando a aprender HTML, CSS e JavaScript, bem como técnicas para criar interfaces web de qualidade. Com o apoio da comunidade de desenvolvedores, busco me desenvolver e crescer como profissional, sempre procurando novos desafios e oportunidades de aprendizado.
-  Atualmente estou Cursando Engenharia de Computação na <a href="https://www.eep.br/>EEP</a>.
+  Atualmente estou Cursando Engenharia de Computação.
 </p>
 <p>Conecte-se comigo nas plataformas:</p>
   <a href="https://id-card-theta.vercel.app/"><img src="https://img.shields.io/badge/Web Site-21759B?style=for-the-badge&logo=Wordpress&logoColor=white"></a>
