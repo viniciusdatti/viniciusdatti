@@ -1,9 +1,7 @@
-<h3>🌐 Social:</h3>
-<div>
 <p>
   Olá, sou o Vinicius Datti!
-  Gosto de sempre estar buscando novos estudos, pois o item mais valioso que o ser humano pode oferecer é o Conhecimento.
-  Atualmente estou Cursando Bacharelado de Engenharia de Computação na <a href="https://www.eep.br/>EEP</a>.
+  Sou um trainee de desenvolvimento front-end em busca de experiência e aprendizado. Estou atualmente me dedicando a aprender HTML, CSS e JavaScript, bem como técnicas para criar interfaces web de qualidade. Com o apoio da comunidade de desenvolvedores, busco me desenvolver e crescer como profissional, sempre procurando novos desafios e oportunidades de aprendizado.
+  Atualmente estou Cursando Engenharia de Computação na <a href="https://www.eep.br/>EEP</a>.
 </p>
 <p>Conecte-se comigo nas plataformas:</p>
   <a href="https://id-card-theta.vercel.app/"><img src="https://img.shields.io/badge/Web Site-21759B?style=for-the-badge&logo=Wordpress&logoColor=white"></a>
