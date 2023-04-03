@@ -15,7 +15,7 @@
 
 <h3>💻 Minhas Habilidades:</h3>
 <div style="display: inline_block">
-  
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Freactjs&psig=AOvVaw0kbD75ibuN6DGJKOWNvpU1&ust=1680614705854000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDO4u_njf4CFQAAAAAdAAAAABAP"
 </div>
  
 ##
