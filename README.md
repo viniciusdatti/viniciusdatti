@@ -4,9 +4,10 @@
  
 </p>
 
+##
 
-<h3>📚 Cursando Engenharia de Computação.<h3>
-  https://www.eep.br/
+<h3>📚 Cursando Engenharia de Computação na <a href="https://www.eep.br/">EEP</a> e alguns cursos na Plataforma <a href="https://www.udemy.com/">Udemy</a> 
+  
   
  
   ##
@@ -21,7 +22,7 @@
 
 ##
 
-<h3>💻 Meus aprendizados:</h3>
+<h3>💻 Desenvolvendo habilidades:</h3>
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
