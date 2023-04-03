@@ -6,7 +6,7 @@
 
 ##
 
-<h3>📚 Cursando Engenharia de Computação na <a href="https://www.eep.br/">EEP</a> e alguns cursos na Plataforma <a href="https://www.udemy.com/">Udemy</a> 
+<h3>📚 Cursando Engenharia de Computação na <a href="https://www.eep.br/">EEP</a> e cursos na Plataforma <a href="https://www.udemy.com/">Udemy</a> 
   
   
  
