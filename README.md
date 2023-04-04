@@ -1,5 +1,5 @@
 <p>
-  <h1>Olá, sou o Vinicius Datti!</h1> <br>
+  <h1>Olá, me chamo Vinicius Datti!</h1> <br>
   Sou um trainee de desenvolvimento front-end em busca de experiência e aprendizado. Estou atualmente me dedicando a aprender HTML, CSS e JavaScript, bem como técnicas para criar interfaces web de qualidade. Com o apoio da comunidade de desenvolvedores, busco me desenvolver e crescer como profissional, sempre procurando novos desafios e oportunidades de aprendizado.
  
 </p>
@@ -12,7 +12,7 @@
  
   ##
   
-<p>Conecte-se comigo nas plataformas:</p>
+<h3>Conecte-se comigo nas plataformas:</h3>
 
   <img src="https://img.shields.io/badge/EMail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
