@@ -1,6 +1,6 @@
 <p>
   <h1>Olá, me chamo Vinicius Datti!</h1> <br>
-  Sou um trainee de desenvolvimento front-end em busca de experiência e aprendizado. Estou atualmente me dedicando a aprender HTML, CSS e JavaScript, bem como técnicas para criar interfaces web de qualidade. Com o apoio da comunidade de desenvolvedores, busco me desenvolver e crescer como profissional, sempre procurando novos desafios e oportunidades de aprendizado.
+  Sou um trainee de desenvolvimento front-end em busca de experiência e aprendizado. Estou atualmente me dedicando a aprender HTML, CSS e JavaScript, bem como técnicas para criar interfaces web de qualidade. Com o apoio da comunidade de desenvolvedores, busco aprimorar meus conhecimentos e crescer como profissional, sempre procurando novos desafios e oportunidades de aprendizado.
  
 </p>
 
