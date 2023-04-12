@@ -1,12 +1,10 @@
 <p>
-  <h1>Olá! Seja bem-vindo(a) ao meu GitHub!</h1> <br>
+  <h1>Olá! Eu sou o Vinicius Datti, seja bem vindo(a) ao meu GitHub!</h1> <br>
  
+<p>
+Atualmente, estou me dedicando ao aprendizado de HTML, CSS, JavaScript e React, trabalhando em projetos que me permitam colocar em prática o conhecimento adquirido em meus estudos.
 
-Meu nome é Vinicius Datti e sou um trainee front-end em constante aprendizado. Atualmente, estou focado em aprimorar minhas habilidades em HTML, CSS, JavaScript e React.
-
-Aqui no meu perfil, você encontrará projetos que desenvolvi durante meu processo de aprendizagem, bem como experimentos que realizo para explorar diferentes conceitos e técnicas de desenvolvimento web. Meus projetos estão disponíveis em repositórios públicos e você é mais do que bem-vindo(a) para navegar e dar uma olhada em meu código.
-
-Muito obrigado(a) pela visita ao meu perfil e espero que você goste do que encontrar aqui!
+Ao navegar pelos meus repositórios no GitHub, você encontrará uma variedade de projetos e experimentos que demonstrem minha evolução em programação. Estou constantemente buscando melhorar meu código e aprimorar minhas habilidades para me tornar um(a) desenvolvedor(a) front-end altamente qualificado(a).
  
 </p>
 
