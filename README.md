@@ -1,6 +1,12 @@
 <p>
-  <h1>Olá, me chamo Vinicius Datti!</h1> <br>
-  Sou um trainee de desenvolvimento front-end em busca de experiência e aprendizado. Estou atualmente me dedicando a aprender HTML, CSS e JavaScript, bem como técnicas para criar interfaces web de qualidade. Com o apoio da comunidade de desenvolvedores, busco aprimorar meus conhecimentos e crescer como profissional, sempre procurando novos desafios e oportunidades de aprendizado.
+  <h1>Olá! Seja bem-vindo(a) ao meu GitHub!</h1> <br>
+ 
+
+Meu nome é Vinicius Datti e sou um trainee front-end em constante aprendizado. Atualmente, estou focado em aprimorar minhas habilidades em HTML, CSS, JavaScript e React.
+
+Aqui no meu perfil, você encontrará projetos que desenvolvi durante meu processo de aprendizagem, bem como experimentos que realizo para explorar diferentes conceitos e técnicas de desenvolvimento web. Meus projetos estão disponíveis em repositórios públicos e você é mais do que bem-vindo(a) para navegar e dar uma olhada em meu código.
+
+Muito obrigado(a) pela visita ao meu perfil e espero que você goste do que encontrar aqui!
  
 </p>
 
