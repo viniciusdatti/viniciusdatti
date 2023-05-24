@@ -10,7 +10,7 @@ Ao navegar pelos meus repositórios no GitHub, você encontrará uma variedade d
 
 ##
 
-<h3>📚 Cursando Engenharia de Computação na <a href="https://www.eep.br/">EEP</a> e cursos na Plataforma <a href="https://www.udemy.com/">Udemy</a> 
+<h3>📚 Cursando Engenharia de Computação na <a href="https://www.unicesumar.edu.br/">UniCesumar</a> e cursos na Plataforma <a href="https://www.alura.com.br">Alura</a> 
   
   
  
