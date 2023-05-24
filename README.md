@@ -10,7 +10,7 @@ Ao navegar pelos meus repositórios no GitHub, você encontrará uma variedade d
 
 ##
 
-<h3>📚 Cursando Engenharia de Softeware na <a href="https://www.unicesumar.edu.br/">UniCesumar</a> e cursos na Plataforma <a href="https://www.alura.com.br">Alura</a> 
+<h3>📚 Cursando Engenharia de Software na <a href="https://www.unicesumar.edu.br/">UniCesumar</a> e cursos na Plataforma <a href="https://www.alura.com.br">Alura</a> 
   
   
  
