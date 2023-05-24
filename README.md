@@ -4,7 +4,7 @@
 <p>
 Atualmente, estou me dedicando ao aprendizado de HTML, CSS, JavaScript e React, trabalhando em projetos que me permitam colocar em prática o conhecimento adquirido em meus estudos.
 
-Ao navegar pelos meus repositórios no GitHub, você encontrará uma variedade de projetos e experimentos que demonstrem minha evolução em programação. Estou constantemente buscando melhorar meu código e aprimorar minhas habilidades para me tornar um(a) desenvolvedor(a) front-end altamente qualificado(a).
+Ao navegar pelos meus repositórios no GitHub, você encontrará uma variedade de projetos e experimentos que demonstrem minha evolução em programação. Estou constantemente buscando melhorar meu código e aprimorar minhas habilidades para me tornar um desenvolvedor front-end altamente qualificado.
  
 </p>
 
