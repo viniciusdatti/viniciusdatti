@@ -1,16 +1,15 @@
 
   <h1>Olá! Eu sou o Vinicius Datti, seja bem vindo(a) ao meu GitHub!</h1> <br>
 
-Atualmente, estou me dedicando ao aprendizado de HTML, CSS, JavaScript e React, trabalhando em projetos que me permitam colocar em prática o conhecimento adquirido em meus estudos.
+<h3>Atualmente, estou me dedicando ao aprendizado de HTML, CSS, JavaScript, TypeScript e React, trabalhando em projetos que me permitam colocar em prática o conhecimento adquirido em meus estudos. </h3>
 
-Ao navegar pelos meus repositórios no GitHub, você encontrará uma variedade de projetos e experimentos que demonstrem minha evolução em programação. Estou constantemente buscando melhorar meu código e aprimorar minhas habilidades para me tornar um desenvolvedor front-end altamente qualificado.
+<h3>Ao navegar pelos meus repositórios no GitHub, você encontrará uma variedade de projetos e experimentos que demonstrem minha evolução em programação. Estou constantemente buscando melhorar meu código e aprimorar minhas habilidades para me tornar um desenvolvedor front-end altamente qualificado. </h3>
  
 </p>
 
 ##
 
-<h3>📚 Cursando Engenharia de Software na <a href="https://www.unicesumar.edu.br/">UniCesumar</a> e outros cursos na Plataforma <a href="https://www.alura.com.br">Alura</a> 
-  
+<h2>📚 Cursando Engenharia de Software na <a href="https://www.unicesumar.edu.br/">UniCesumar</a> e cursos na Plataforma <a href="https://www.alura.com.br">Alura</a> 
   
   ##
   
