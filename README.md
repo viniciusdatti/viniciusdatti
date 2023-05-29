@@ -11,7 +11,7 @@
 
 <h2>📚 Cursando Engenharia de Software na <a href="https://www.unicesumar.edu.br/">UniCesumar</a> e cursos na Plataforma <a href="https://www.alura.com.br">Alura</a> 
   
-  ##
+
   
 <h3>Conecte-se comigo nas plataformas:</h3>
 
