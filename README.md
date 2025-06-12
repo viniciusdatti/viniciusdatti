@@ -2,13 +2,13 @@
 
 <h3>Atuo há 2 anos e 5 meses na área de desenvolvimento front-end e estou constantemente me aperfeiçoando para me tornar um desenvolvedor altamente qualificado.</h3>
 
-<h3>Tenho conhecimento e domínio em tecnologias como TypeScript, JavaScript, React, styled-components, versionamento com Git, testes, revisão de código e comunicação em tempo real utilizando socket.</h3>
+<h3>Tenho conhecimento e domínio em tecnologias como TypeScript, JavaScript, React, styled-components, versionamento com Git, testes unitários, revisão de código e comunicação em tempo real utilizando WebSocket.</h3>
 
 <h3>Me dedico ao aprendizado contínuo por meio de projetos práticos que coloco em meus repositórios, demonstrando minha evolução técnica e compromisso com a qualidade do código.</h3>
 
 ##
 
-<h2>📚 Cursando Engenharia de Software na <a href="https://www.unicesumar.edu.br/">UniCesumar</a> e realizando formações na plataforma <a href="https://www.alura.com.br">Alura</a></h2>
+<h2>📚 Cursando Engenharia de Software na <a href="https://www.unicesumar.edu.br/">UniCesumar</a> e realizando cursos na plataforma <a href="https://www.udemy.com">Udemy</a></h2>
 
 <h3>Conecte-se comigo nas plataformas:</h3>
 
@@ -32,8 +32,9 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Styled--Components-db7093?style=for-the-badge&logo=styled-components&logoColor=white">
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white">
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Testes%20Unit%C3%A1rios-6DB33F?style=for-the-badge&logo=jest&logoColor=white">
 </div>
 
 ##
@@ -43,6 +44,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusdatti&theme=blue-green">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdatti&theme=blue-green">
 </div>
-
-
-
