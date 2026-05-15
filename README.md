@@ -26,9 +26,9 @@ Atuo no desenvolvimento de aplicações web modernas utilizando React, TypeScrip
 
 Tenho experiência com Design Systems, testes automatizados, integrações via API e desenvolvimento de dashboards orientados a dados em tempo real.
 
-Atualmente curso Engenharia de Software pela UniCesumar e sigo em constante evolução técnica, buscando construir soluções performáticas, resilientes e intuitivas.
+Atualmente estou cursando Engenharia de Software pela UniCesumar e sigo em constante evolução técnica, buscando construir soluções performáticas, resilientes e intuitivas.
 
-* 🎓 **Formação:** Engenharia de Software — UniCesumar  
+* 🎓 **Cursando:** Engenharia de Software — UniCesumar  
 * 🚀 **Foco:** Front-end escalável, UI/UX e arquitetura de aplicações  
 * 🛠️ **Especialidade:** WebSockets, Design Systems e aplicações em tempo real  
 
