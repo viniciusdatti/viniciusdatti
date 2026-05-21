@@ -1,67 +1,69 @@
 <div align="center">
-  <h1>👋 Olá! Eu sou o Vinicius Datti</h1>
-  <p align="center">
-    <strong>Software Engineer | React | TypeScript | Python | PostgreSQL</strong><br>
-    Desenvolvendo aplicações modernas, escaláveis e orientadas à performance com foco em experiência do usuário e comunicação em tempo real.
-  </p>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/vinicius-datti-791482267/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://github.com/viniciusdatti">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="https://viniciusdatti-portfolio.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-    </a>
-  </p>
+# Vinicius Datti
+
+**Front-end Engineer | React · TypeScript · WebSocket**
+
+Desenvolvimento de aplicações React escaláveis com foco em interfaces de dados em tempo real, arquitetura de componentes e qualidade de engenharia.
+
+<a href="https://www.linkedin.com/in/vinicius-datti/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/viniciusdatti">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://viniciusdatti-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
+
 </div>
 
 ---
 
-### 🖋️ Sobre Mim
+### Sobre
 
-Atuo no desenvolvimento de aplicações web modernas utilizando React, TypeScript e Python, com foco em arquitetura Front-end escalável, experiência do usuário e comunicação em tempo real.
+Desenvolvedor Front-end com 3+ anos de experiência construindo aplicações React + TypeScript em produção, com foco em interfaces de dados em tempo real, arquitetura de componentes e qualidade de engenharia.
 
-Tenho experiência com Design Systems, testes automatizados, integrações via API e desenvolvimento de dashboards orientados a dados em tempo real.
+Na Superior Industries, desenvolvi e mantive dashboards de monitoramento industrial que processam streams contínuos de telemetria via WebSocket — incluindo validação dinâmica de thresholds, renderização com múltiplos estados e layouts responsivos para diferentes dispositivos.
 
-Atualmente estou cursando Engenharia de Software pela UniCesumar e sigo em constante evolução técnica, buscando construir soluções performáticas, resilientes e intuitivas.
-
-* 🎓 **Cursando:** Engenharia de Software — UniCesumar  
-* 🚀 **Foco:** Front-end escalável, UI/UX e arquitetura de aplicações  
-* 🛠️ **Especialidade:** WebSockets, Design Systems e aplicações em tempo real  
+Curso Engenharia de Software pela UniCesumar (conclusão 2027).
 
 ---
 
-### 🚀 Principais Atuações
+### Stack
 
-* **Desenvolvimento Front-end:** Construção de interfaces modernas utilizando **React** e **TypeScript** com foco em performance e componentização.
-* **Design Systems:** Evolução e manutenção de bibliotecas reutilizáveis com **Styled-components** e **Storybook**.
-* **Qualidade de Software:** Implementação de testes unitários com **Jest** e testes E2E com **Playwright**.
-* **Integrações & APIs:** Desenvolvimento de integrações REST e comunicação em tempo real via **WebSocket**.
-* **Back-end & Dados:** Implementações utilizando **Python** e manipulação de bancos **PostgreSQL**.
-* **Engenharia de Software:** Participação ativa em **Code Reviews**, fluxo de revisões técnicas e pipelines de **CI/CD**.
+**Front-end**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Styled Components](https://img.shields.io/badge/Styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+
+**Qualidade & Testes**
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+**Back-end & Dados**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
 ---
 
-### 💻 Stack Tecnológica
+### Principais atuações
 
-| Front-end | Back-end & DB | Quality & Tools |
-| :--- | :--- | :--- |
-| React & TypeScript | Python | Jest & Playwright |
-| Styled-components | PostgreSQL | Git & GitHub |
-| WebSockets | REST APIs | GitLab & CI/CD |
-| Storybook | APIs REST | Agile & Scrum |
-
----
-
-### 🌐 Portfolio
-
-🔗 https://viniciusdatti-portfolio.vercel.app/
-
----
-
-<div align="center">
-  <sub>"Capacidade técnica aliada à construção de experiências modernas e escaláveis."</sub>
-</div>
+- Dashboards de monitoramento em produção com atualização em tempo real via WebSocket e validação dinâmica de thresholds
+- Arquitetura e evolução de Design System com Styled-components e documentação via Storybook
+- Implementação completa de fluxos de autenticação: login, controle de sessão e password reset
+- Responsividade completa em todos os módulos do sistema
+- Testes automatizados com Jest (unitários) e Playwright (E2E)
+- Code reviews com foco em padrões de componentes, performance e type safety
+- Integrações com APIs REST e back-end Python + PostgreSQL
