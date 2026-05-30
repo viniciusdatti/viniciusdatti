@@ -26,10 +26,12 @@ Monorepo com React 19, TypeScript strict, FastAPI, PostgreSQL, Storybook, Vitest
 
 ## Stack
 
-**Frontend:** React · TypeScript · Vite · Styled Components · Storybook
-**Estado e dados:** Zustand · TanStack Query · WebSocket · Socket.IO
-**Testes:** Vitest · Playwright · MSW
-**Backend:** FastAPI · PostgreSQL · SQLAlchemy
+| Área | Tecnologias |
+|---|---|
+| Frontend | React · TypeScript · Vite · Styled Components · Storybook |
+| Estado e dados | Zustand · TanStack Query · WebSocket · Socket.IO |
+| Testes | Vitest · Playwright · MSW |
+| Backend | FastAPI · PostgreSQL · SQLAlchemy |
 
 ---
 
