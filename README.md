@@ -1,5 +1,25 @@
 # Vinicius Datti
 
+Frontend Engineer com 3+ anos de experiência em React + TypeScript.
+
+Na [Superior Industries](https://www.superior-ind.com/) desenvolvo dashboards de monitoramento industrial que processam telemetria contínua via WebSocket — validação de thresholds em tempo real, múltiplos estados de UI e responsividade para diferentes contextos de operação. Também sou responsável pela evolução do design system interno (Styled Components + Storybook), code reviews e integração com APIs Python + PostgreSQL.
+
+---
+
+**Stack principal:** React · TypeScript · Vite · Styled Components · WebSocket · Socket.IO · Zustand · TanStack Query · Vitest · Playwright
+
+---
+
+## Projetos
+
+**[Live Lab](https://github.com/viniciusdatti/live-lab)** — sandbox para explorar arquitetura real-time com WebSocket, Socket.IO e FastAPI.
+
+**[Portfolio Platform](https://github.com/viniciusdatti/portfolio-platform)** — monorepo com React 19, FastAPI, PostgreSQL, Storybook, Vitest e Playwright. Projeto de referência pessoal para práticas de qualidade.
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-datti-791482267/)# Vinicius Datti
+
 **Front-end Engineer** · React · TypeScript · WebSocket · Real-Time Interfaces
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-datti-791482267/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/viniciusdatti)
