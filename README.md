@@ -13,6 +13,10 @@ Frontend Engineer • React • TypeScript • WebSocket
 <a href="https://www.linkedin.com/in/vinicius-datti-791482267/">LinkedIn</a>
 </p>
 
+<p align="center">
+  <img src="./assets/live-lab-demo.gif" alt="Live Lab — realtime telemetry, WebSocket, operational dashboard" width="100%" />
+</p>
+
 ---
 
 ## About
