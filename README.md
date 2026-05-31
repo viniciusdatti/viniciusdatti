@@ -54,7 +54,7 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=react,ts,vite,python,fastapi,postgres,docker,socketio,playwright,vitest,storybook,threejs,eslint,git,github&perline=8"
+    src="https://skillicons.dev/icons?i=react,ts,vite,python,fastapi,postgres,docker,socketio,playwright,vitest,storybook,threejs,eslint&perline=7"
     alt="Portfolio Platform — core stack"
   />
 </p>
@@ -73,7 +73,7 @@
 <p align="center"><strong>State & Data</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/TanStack_Query-21262d?style=flat-square&logo=reactquery&logoColor=58d4ff" alt="TanStack Query">
-  <img src="https://img.shields.io/badge/Zustand-21262d?style=flat-square&logo=redux&logoColor=58d4ff" alt="Zustand">
+  <img src="https://img.shields.io/badge/Zustand-21262d?style=flat-square&logoColor=58d4ff" alt="Zustand">
   <img src="https://img.shields.io/badge/Socket.IO-21262d?style=flat-square&logo=socketdotio&logoColor=58d4ff" alt="Socket.IO">
   <img src="https://img.shields.io/badge/i18next-21262d?style=flat-square&logo=i18next&logoColor=58d4ff" alt="i18next">
   <img src="https://img.shields.io/badge/Zod-21262d?style=flat-square&logo=zod&logoColor=58d4ff" alt="Zod">
@@ -91,7 +91,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/SQLAlchemy-21262d?style=flat-square&logo=sqlalchemy&logoColor=58d4ff" alt="SQLAlchemy">
   <img src="https://img.shields.io/badge/Pydantic-21262d?style=flat-square&logo=pydantic&logoColor=58d4ff" alt="Pydantic">
-  <img src="https://img.shields.io/badge/Alembic-21262d?style=flat-square&logo=alembic&logoColor=58d4ff" alt="Alembic">
   <img src="https://img.shields.io/badge/Uvicorn-21262d?style=flat-square&logo=uvicorn&logoColor=58d4ff" alt="Uvicorn">
 </p>
 
