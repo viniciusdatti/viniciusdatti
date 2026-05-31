@@ -52,7 +52,7 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=react,ts,vite,socketio,postgres,docker,playwright,vitest&perline=8"
+    src="https://skills.syvixor.com/api/icons?i=react,ts,vite,socketio,postgres,docker,playwright,vitest&perline=8"
     alt="Core stack — React, TypeScript, Vite, Socket.IO, PostgreSQL, Docker, Playwright, Vitest"
   />
 </p>
