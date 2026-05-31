@@ -21,16 +21,16 @@
 
 <p align="center">
   <a href="https://viniciusdatti-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-00E5FF?style=flat-square&logo=Google-Chrome&logoColor=0d1117" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-21262d?style=for-the-badge&logo=googlechrome&logoColor=58d4ff" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/vinicius-datti-791482267/">
-    <img src="https://img.shields.io/badge/-LinkedIn-00E5FF?style=flat-square&logo=Linkedin&logoColor=0d1117" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=58d4ff" alt="LinkedIn">
   </a>
   <a href="https://github.com/viniciusdatti">
-    <img src="https://img.shields.io/badge/-GitHub-00E5FF?style=flat-square&logo=GitHub&logoColor=0d1117" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&logo=github&logoColor=58d4ff" alt="GitHub">
   </a>
   <a href="mailto:viniciusdatti@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-00E5FF?style=flat-square&logo=Gmail&logoColor=0d1117" alt="Email">
+    <img src="https://img.shields.io/badge/Email-21262d?style=for-the-badge&logo=gmail&logoColor=58d4ff" alt="Email">
   </a>
 </p>
 
@@ -39,8 +39,8 @@
 <h3 align="center">About</h3>
 
 <p align="center">
-  <strong>Superior Industries</strong> — real-time industrial dashboards, WebSocket telemetry, design systems.<br />
-  Author of <a href="https://github.com/viniciusdatti/vinicius-portfolio">Portfolio Platform</a> — full-stack showcase with Live Lab observability.
+  3+ years building real-time industrial monitoring platforms at Superior Industries.<br /><br />
+  Author of <a href="https://github.com/viniciusdatti/vinicius-portfolio">Portfolio Platform</a> — a production-grade full-stack application featuring WebSocket telemetry, observability concepts and modern frontend architecture.
 </p>
 
 ---
@@ -61,38 +61,38 @@
 
 <p align="center"><strong>Frontend & UI</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Framer_Motion-12-00E5FF?style=flat-square&logo=framer&logoColor=0d1117" alt="Framer Motion">
-  <img src="https://img.shields.io/badge/styled--components-6-00E5FF?style=flat-square&logo=styledcomponents&logoColor=0d1117" alt="styled-components">
-  <img src="https://img.shields.io/badge/Recharts-3-00E5FF?style=flat-square&logo=chartdotjs&logoColor=0d1117" alt="Recharts">
-  <img src="https://img.shields.io/badge/React_Router-7-00E5FF?style=flat-square&logo=reactrouter&logoColor=0d1117" alt="React Router">
-  <img src="https://img.shields.io/badge/React_Hook_Form-7-00E5FF?style=flat-square&logo=reacthookform&logoColor=0d1117" alt="React Hook Form">
-  <img src="https://img.shields.io/badge/GSAP-3-00E5FF?style=flat-square&logo=greensock&logoColor=0d1117" alt="GSAP">
-  <img src="https://img.shields.io/badge/React_Three_Fiber-9-00E5FF?style=flat-square&logo=threedotjs&logoColor=0d1117" alt="React Three Fiber">
+  <img src="https://img.shields.io/badge/Framer_Motion-21262d?style=flat-square&logo=framer&logoColor=58d4ff" alt="Framer Motion">
+  <img src="https://img.shields.io/badge/styled--components-21262d?style=flat-square&logo=styledcomponents&logoColor=58d4ff" alt="styled-components">
+  <img src="https://img.shields.io/badge/Recharts-21262d?style=flat-square&logo=chartdotjs&logoColor=58d4ff" alt="Recharts">
+  <img src="https://img.shields.io/badge/React_Router-21262d?style=flat-square&logo=reactrouter&logoColor=58d4ff" alt="React Router">
+  <img src="https://img.shields.io/badge/React_Hook_Form-21262d?style=flat-square&logo=reacthookform&logoColor=58d4ff" alt="React Hook Form">
+  <img src="https://img.shields.io/badge/GSAP-21262d?style=flat-square&logo=greensock&logoColor=58d4ff" alt="GSAP">
+  <img src="https://img.shields.io/badge/React_Three_Fiber-21262d?style=flat-square&logo=threedotjs&logoColor=58d4ff" alt="React Three Fiber">
 </p>
 
 <p align="center"><strong>State & Data</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/TanStack_Query-5-00E5FF?style=flat-square&logo=reactquery&logoColor=0d1117" alt="TanStack Query">
-  <img src="https://img.shields.io/badge/Zustand-5-00E5FF?style=flat-square&logo=redux&logoColor=0d1117" alt="Zustand">
-  <img src="https://img.shields.io/badge/Socket.IO-4-00E5FF?style=flat-square&logo=socketdotio&logoColor=0d1117" alt="Socket.IO">
-  <img src="https://img.shields.io/badge/i18next-25-00E5FF?style=flat-square&logo=i18next&logoColor=0d1117" alt="i18next">
-  <img src="https://img.shields.io/badge/Zod-4-00E5FF?style=flat-square&logo=zod&logoColor=0d1117" alt="Zod">
-  <img src="https://img.shields.io/badge/MSW-2-00E5FF?style=flat-square&logo=mockserviceworker&logoColor=0d1117" alt="MSW">
+  <img src="https://img.shields.io/badge/TanStack_Query-21262d?style=flat-square&logo=reactquery&logoColor=58d4ff" alt="TanStack Query">
+  <img src="https://img.shields.io/badge/Zustand-21262d?style=flat-square&logo=redux&logoColor=58d4ff" alt="Zustand">
+  <img src="https://img.shields.io/badge/Socket.IO-21262d?style=flat-square&logo=socketdotio&logoColor=58d4ff" alt="Socket.IO">
+  <img src="https://img.shields.io/badge/i18next-21262d?style=flat-square&logo=i18next&logoColor=58d4ff" alt="i18next">
+  <img src="https://img.shields.io/badge/Zod-21262d?style=flat-square&logo=zod&logoColor=58d4ff" alt="Zod">
+  <img src="https://img.shields.io/badge/MSW-21262d?style=flat-square&logo=mockserviceworker&logoColor=58d4ff" alt="MSW">
 </p>
 
 <p align="center"><strong>Quality</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Testing_Library-16-00E5FF?style=flat-square&logo=testinglibrary&logoColor=0d1117" alt="Testing Library">
-  <img src="https://img.shields.io/badge/ESLint-8-00E5FF?style=flat-square&logo=eslint&logoColor=0d1117" alt="ESLint">
-  <img src="https://img.shields.io/badge/Airbnb_styleguide-19-00E5FF?style=flat-square&logo=eslint&logoColor=0d1117" alt="Airbnb ESLint">
+  <img src="https://img.shields.io/badge/Testing_Library-21262d?style=flat-square&logo=testinglibrary&logoColor=58d4ff" alt="Testing Library">
+  <img src="https://img.shields.io/badge/ESLint-21262d?style=flat-square&logo=eslint&logoColor=58d4ff" alt="ESLint">
+  <img src="https://img.shields.io/badge/Airbnb_styleguide-21262d?style=flat-square&logo=eslint&logoColor=58d4ff" alt="Airbnb ESLint">
 </p>
 
 <p align="center"><strong>Backend</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/SQLAlchemy-2-00E5FF?style=flat-square&logo=sqlalchemy&logoColor=0d1117" alt="SQLAlchemy">
-  <img src="https://img.shields.io/badge/Pydantic-2-00E5FF?style=flat-square&logo=pydantic&logoColor=0d1117" alt="Pydantic">
-  <img src="https://img.shields.io/badge/Alembic-1-00E5FF?style=flat-square&logo=alembic&logoColor=0d1117" alt="Alembic">
-  <img src="https://img.shields.io/badge/Uvicorn-ASGI-00E5FF?style=flat-square&logo=uvicorn&logoColor=0d1117" alt="Uvicorn">
+  <img src="https://img.shields.io/badge/SQLAlchemy-21262d?style=flat-square&logo=sqlalchemy&logoColor=58d4ff" alt="SQLAlchemy">
+  <img src="https://img.shields.io/badge/Pydantic-21262d?style=flat-square&logo=pydantic&logoColor=58d4ff" alt="Pydantic">
+  <img src="https://img.shields.io/badge/Alembic-21262d?style=flat-square&logo=alembic&logoColor=58d4ff" alt="Alembic">
+  <img src="https://img.shields.io/badge/Uvicorn-21262d?style=flat-square&logo=uvicorn&logoColor=58d4ff" alt="Uvicorn">
 </p>
 
 ---
@@ -102,7 +102,7 @@
 <p align="center">
   <img
     height="165"
-    src="https://streak-stats.demolab.com/?user=viniciusdatti&theme=dark&hide_border=true&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF"
+    src="https://streak-stats.demolab.com/?user=viniciusdatti&theme=dark&hide_border=true&stroke=58d4ff&ring=58d4ff&fire=58d4ff&currStreakLabel=58d4ff"
     alt="GitHub streak stats"
   />
   <img
