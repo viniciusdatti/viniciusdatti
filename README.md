@@ -14,7 +14,11 @@ Frontend Engineer • React • TypeScript • WebSocket
 </p>
 
 <p align="center">
-  <img src="./assets/live-lab-demo.gif" alt="Live Lab — realtime telemetry, WebSocket, operational dashboard" width="100%" />
+  <img
+    src="./assets/live-lab-demo.gif"
+    alt="Live Lab — realtime telemetry, WebSocket and industrial monitoring"
+    width="100%"
+  />
 </p>
 
 ---
