@@ -36,7 +36,7 @@
 
 ---
 
-### About
+<h3 align="center">About</h3>
 
 <p align="center">
   <strong>Superior Industries</strong> — real-time industrial dashboards, WebSocket telemetry, design systems.<br />
@@ -45,47 +45,59 @@
 
 ---
 
-### Featured Work
+<h3 align="center">Featured Work · Portfolio Platform</h3>
 
 <p align="center">
-  <a href="https://github.com/viniciusdatti/vinicius-portfolio"><strong>Portfolio Platform</strong></a><br />
-  <sub>WebSocket · Real-Time Telemetry · FastAPI · PostgreSQL · Storybook · Playwright · Vitest</sub>
+  <a href="https://github.com/viniciusdatti/vinicius-portfolio"><strong>vinicius-portfolio</strong></a><br />
+  <sub>Monorepo · Live Lab · REST API · WebSocket telemetry · Design System · i18n · automated QA</sub>
 </p>
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=react,ts,fastapi,postgres,storybook,playwright&perline=6"
-    alt="Portfolio Platform stack"
+    src="https://skillicons.dev/icons?i=react,ts,vite,python,fastapi,postgres,docker,socketio,playwright,vitest,storybook,threejs,eslint,git,github&perline=8"
+    alt="Portfolio Platform — core stack"
   />
 </p>
 
----
-
-### Tech Stack
-
-<p align="center"><strong>Frontend</strong></p>
+<p align="center"><strong>Frontend & UI</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,vite,html,css,figma" alt="Frontend stack">
+  <img src="https://img.shields.io/badge/Framer_Motion-12-00E5FF?style=flat-square&logo=framer&logoColor=0d1117" alt="Framer Motion">
+  <img src="https://img.shields.io/badge/styled--components-6-00E5FF?style=flat-square&logo=styledcomponents&logoColor=0d1117" alt="styled-components">
+  <img src="https://img.shields.io/badge/Recharts-3-00E5FF?style=flat-square&logo=chartdotjs&logoColor=0d1117" alt="Recharts">
+  <img src="https://img.shields.io/badge/React_Router-7-00E5FF?style=flat-square&logo=reactrouter&logoColor=0d1117" alt="React Router">
+  <img src="https://img.shields.io/badge/React_Hook_Form-7-00E5FF?style=flat-square&logo=reacthookform&logoColor=0d1117" alt="React Hook Form">
+  <img src="https://img.shields.io/badge/GSAP-3-00E5FF?style=flat-square&logo=greensock&logoColor=0d1117" alt="GSAP">
+  <img src="https://img.shields.io/badge/React_Three_Fiber-9-00E5FF?style=flat-square&logo=threedotjs&logoColor=0d1117" alt="React Three Fiber">
 </p>
 
 <p align="center"><strong>State & Data</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,socketio,postgres" alt="State and data stack">
+  <img src="https://img.shields.io/badge/TanStack_Query-5-00E5FF?style=flat-square&logo=reactquery&logoColor=0d1117" alt="TanStack Query">
+  <img src="https://img.shields.io/badge/Zustand-5-00E5FF?style=flat-square&logo=redux&logoColor=0d1117" alt="Zustand">
+  <img src="https://img.shields.io/badge/Socket.IO-4-00E5FF?style=flat-square&logo=socketdotio&logoColor=0d1117" alt="Socket.IO">
+  <img src="https://img.shields.io/badge/i18next-25-00E5FF?style=flat-square&logo=i18next&logoColor=0d1117" alt="i18next">
+  <img src="https://img.shields.io/badge/Zod-4-00E5FF?style=flat-square&logo=zod&logoColor=0d1117" alt="Zod">
+  <img src="https://img.shields.io/badge/MSW-2-00E5FF?style=flat-square&logo=mockserviceworker&logoColor=0d1117" alt="MSW">
 </p>
 
 <p align="center"><strong>Quality</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=playwright,jest,storybook,git,github" alt="Quality stack">
+  <img src="https://img.shields.io/badge/Testing_Library-16-00E5FF?style=flat-square&logo=testinglibrary&logoColor=0d1117" alt="Testing Library">
+  <img src="https://img.shields.io/badge/ESLint-8-00E5FF?style=flat-square&logo=eslint&logoColor=0d1117" alt="ESLint">
+  <img src="https://img.shields.io/badge/Airbnb_styleguide-19-00E5FF?style=flat-square&logo=eslint&logoColor=0d1117" alt="Airbnb ESLint">
 </p>
 
 <p align="center"><strong>Backend</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker" alt="Backend stack">
+  <img src="https://img.shields.io/badge/SQLAlchemy-2-00E5FF?style=flat-square&logo=sqlalchemy&logoColor=0d1117" alt="SQLAlchemy">
+  <img src="https://img.shields.io/badge/Pydantic-2-00E5FF?style=flat-square&logo=pydantic&logoColor=0d1117" alt="Pydantic">
+  <img src="https://img.shields.io/badge/Alembic-1-00E5FF?style=flat-square&logo=alembic&logoColor=0d1117" alt="Alembic">
+  <img src="https://img.shields.io/badge/Uvicorn-ASGI-00E5FF?style=flat-square&logo=uvicorn&logoColor=0d1117" alt="Uvicorn">
 </p>
 
 ---
 
-### GitHub Activity
+<h3 align="center">GitHub Activity</h3>
 
 <p align="center">
   <img
