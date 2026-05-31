@@ -1,16 +1,7 @@
-<p align="center">
-  <img src="./assets/github-banner.png" alt="Vinicius Datti Banner" />
-</p>
-
-<h1 align="center">Vinicius Datti</h1>
+<h1 align="center">Hello, I'm Vinicius Datti 👋</h1>
 
 <p align="center">
-Frontend Engineer • React • TypeScript • WebSocket
-</p>
-
-<p align="center">
-<a href="https://viniciusdatti-portfolio.vercel.app/">Portfolio</a> •
-<a href="https://www.linkedin.com/in/vinicius-datti-791482267/">LinkedIn</a>
+  <em>Frontend Engineer • React • TypeScript • Real-time systems</em>
 </p>
 
 <p align="center">
@@ -23,106 +14,57 @@ Frontend Engineer • React • TypeScript • WebSocket
 
 ---
 
-## About
+<p align="center">
+  I build highly available React interfaces for real-time data and critical operations.<br />
+  Here you'll find production-grade UI, honest case studies, and a Live Lab demo inspired by industrial observability.
+</p>
 
-Frontend Engineer com mais de 3 anos de experiência desenvolvendo aplicações React + TypeScript em produção.
-
-Minha atuação está concentrada em sistemas orientados a dados, telemetria em tempo real, arquitetura de componentes e qualidade de engenharia.
-
-Na Superior Industries participei da evolução de dashboards industriais responsáveis pelo monitoramento contínuo de equipamentos através de WebSocket, múltiplos estados operacionais, validação dinâmica de thresholds e interfaces responsivas para diferentes ambientes.
-
-Além das funcionalidades de produto, atuei na evolução de Design Systems, documentação via Storybook, revisão de código e definição de padrões para aplicações React escaláveis.
-
----
-
-## Featured Work
-
-### Portfolio Platform
-
-Monorepo full-stack construído para centralizar minha experiência profissional e experimentações técnicas.
-
-**Stack principal**
-
-- React 19
-- TypeScript
-- FastAPI
-- PostgreSQL
-- Storybook
-- Vitest
-- Playwright
-
-**Capacidades demonstradas**
-
-- Arquitetura Frontend escalável
-- Integração React + FastAPI
-- Testes automatizados
-- Internacionalização (pt-BR / en-US)
-- Design System documentado
-- Telemetria em tempo real
-- Observabilidade
-
-#### Live Lab
-
-Módulo do Portfolio Platform inspirado em cenários reais de monitoramento industrial.
-
-Explora conceitos de:
-
-- WebSocket
-- Socket.IO
-- Alertas configuráveis
-- Logs operacionais
-- Telemetria contínua
-- Gerenciamento de estado reativo
-
-🔗 **Portfolio:** https://viniciusdatti-portfolio.vercel.app/
+<p align="center">
+  <a href="https://viniciusdatti-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-00E5FF?style=flat-square&logo=Google-Chrome&logoColor=0d1117">
+  </a>
+  <a href="https://www.linkedin.com/in/vinicius-datti-791482267/">
+    <img src="https://img.shields.io/badge/-LinkedIn-00E5FF?style=flat-square&logo=Linkedin&logoColor=0d1117">
+  </a>
+  <a href="https://github.com/viniciusdatti">
+    <img src="https://img.shields.io/badge/-GitHub-00E5FF?style=flat-square&logo=GitHub&logoColor=0d1117">
+  </a>
+  <a href="mailto:viniciusdatti@gmail.com">
+    <img src="https://img.shields.io/badge/-viniciusdatti@gmail.com-00E5FF?style=flat-square&logo=Gmail&logoColor=0d1117">
+  </a>
+</p>
 
 ---
 
-## Professional Experience
+### 🧠 About Me
 
-### Superior Industries
-
-**Frontend Engineer**  
-**Fev 2023 — Mai 2026**
-
-- Dashboards industriais em tempo real
-- Telemetria via WebSocket
-- Design System documentado com Storybook
-- Arquitetura de componentes React
-- Code Reviews
-- Testes automatizados
-- Integrações com APIs Python
-- PostgreSQL
-- TypeScript Strict
+- 🔭 **Frontend Engineer** at [Superior Industries Inc](https://www.superior-ind.com/) — industrial dashboards, WebSocket telemetry, design system
+- 🎓 **Software Engineering** at UniCesumar — expected graduation 2027
+- ✨ Author of [vinicius-portfolio](https://github.com/viniciusdatti/vinicius-portfolio) — full-stack monorepo with Live Lab, i18n, and API-driven content
 
 ---
 
-## Core Technologies
+### 💻 Tech Stack Highlights
 
-| Frontend | Real-Time | Quality | Backend |
-|-----------|-----------|-----------|-----------|
-| React | WebSocket | Vitest | FastAPI |
-| TypeScript | Socket.IO | Playwright | PostgreSQL |
-| Vite | Zustand | MSW | SQLAlchemy |
-| Storybook | TanStack Query | Testing Library | Python |
-
----
-
-## Engineering Interests
-
-- Real-Time Systems
-- Frontend Architecture
-- Design Systems
-- Developer Experience
-- Observability
-- Type-Safe Applications
+<p align="center">
+  <img
+    width="41%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdatti&layout=compact&hide_border=true&title_color=00E5FF&text_color=ffffff&bg_color=0d1117"
+    alt="Top languages — Vinicius Datti"
+  />
+</p>
 
 ---
 
-## Contact
+### 🟦 Latest Commit Energy
 
-🌐 Portfolio  
-https://viniciusdatti-portfolio.vercel.app/
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=viniciusdatti&show_icons=true&theme=github_dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=ffffff"
+    alt="GitHub stats — Vinicius Datti"
+  />
+</p>
 
-💼 LinkedIn  
-https://www.linkedin.com/in/vinicius-datti/
+<p align="center">
+  <em>Keep building. One commit at a time.</em> 🟦
+</p>
